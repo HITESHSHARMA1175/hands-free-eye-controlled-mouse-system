@@ -81,11 +81,6 @@ This project combines **Computer Vision** and **Automation** to create a smooth,
 [ PyAutoGUI → OS Mouse Control ]
 ```
 
-> Replace with an actual image diagram if needed.
-
----
-
-
 ## 📆 Installation
 
 ### 1. Clone the Repository
