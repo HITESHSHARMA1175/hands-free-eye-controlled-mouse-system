@@ -18,8 +18,7 @@ This project combines **Computer Vision** and **Automation** to create a smooth,
 
 ## 🧰 Tech Stack
 
-| Tool/Library | Purpose                               |
-| ------------ | ------------------------------------- |
+| Tool/Library | Purpose                                ------------------------------------- |
 | Python       | Programming language                  |
 | OpenCV       | Image & webcam processing             |
 | MediaPipe    | Real-time face/eye landmark detection |
